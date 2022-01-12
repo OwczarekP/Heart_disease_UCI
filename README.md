@@ -1,6 +1,5 @@
 # Heart_disease_UCI
-EDA and classification model for Heart Disease UCI data from kaggle
-DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+EDA and classification model for Heart Disease UCI data from kaggle.
 
 ## Data source
 Kaggle - [Heart disease UCI](https://www.kaggle.com/ronitf/heart-disease-uci)
